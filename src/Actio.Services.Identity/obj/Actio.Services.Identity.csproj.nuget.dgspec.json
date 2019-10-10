@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj": {}
+    "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
+    "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
+        "projectUniqueName": "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
         "projectName": "Actio.Common",
-        "projectPath": "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
+        "projectPath": "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
         "packagesPath": "C:\\Users\\victor.capelini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\obj\\",
+        "outputPath": "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj": {
+    "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj",
+        "projectUniqueName": "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj",
         "projectName": "Actio.Services.Identity",
-        "projectPath": "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj",
+        "projectPath": "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj",
         "packagesPath": "C:\\Users\\victor.capelini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\obj\\",
+        "outputPath": "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Services.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
-                "projectPath": "C:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj"
+              "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
+                "projectPath": "c:\\Users\\victor.capelini\\Documents\\Codes\\DotNetMS\\Actio\\src\\Actio.Common\\Actio.Common.csproj"
               }
             }
           }
